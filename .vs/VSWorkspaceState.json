@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\config",
+    "\\src\\routes",
+    "\\vendor\\slim"
+  ],
+  "SelectedNode": "\\src\\config\\db.php",
+  "PreviewInSolutionExplorer": false
+}
